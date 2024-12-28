@@ -1,0 +1,35 @@
+package:
+  dependencies:
+    - arrays
+    - assert
+    - console
+    - control
+    - effect
+    - either
+    - enums
+    - exceptions
+    - foldable-traversable
+    - gen
+    - identity
+    - integers
+    - lazy
+    - lcg
+    - lists
+    - maybe
+    - newtype
+    - nonempty
+    - numbers
+    - partial
+    - prelude
+    - record
+    - st
+    - strings
+    - tailrec
+    - transformers
+    - tuples
+    - unfoldable
+  name: quickcheck
+workspace:
+  extraPackages: {}
+  packageSet:
+    url: https://raw.githubusercontent.com/purescript/package-sets/psc-0.15.15-20241226/packages.json

@@ -11,6 +11,7 @@ New features:
 Bugfixes:
 
 Other improvements:
+- Switch to Spago (#113 by @joe-op)
 
 ## [v8.0.1](https://github.com/purescript/purescript-quickcheck/releases/tag/v8.0.1) - 2022-04-27
 
